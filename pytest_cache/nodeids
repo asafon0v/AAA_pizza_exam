@@ -1,0 +1,16 @@
+[
+  "pizza_test_1.py::test_can_make_base_pizza[s0-tomato sauce, L]",
+  "pizza_test_1.py::test_can_make_base_pizza[s1-white, XL]",
+  "pizza_test_1.py::test_can_make_pizza_from_recipes[s0-Margherita, L]",
+  "pizza_test_1.py::test_can_make_pizza_from_recipes[s1-Pepperoni, XL]",
+  "pizza_test_1.py::test_can_make_pizza_from_recipes[s2-Hawaiian, XL]",
+  "pizza_test_2.py::test_can_bake_pizzas[Hawaiian-Pizza Hawaiian is ready to delivery!]",
+  "pizza_test_2.py::test_can_bake_pizzas[Margherita-Pizza Margherita is ready to delivery!]",
+  "pizza_test_2.py::test_can_bake_pizzas[Pepperoni-Pizza Pepperoni is ready to delivery!]",
+  "pizza_test_2.py::test_can_order_pizza_with_delivery",
+  "pizza_test_2.py::test_can_order_pizza_with_pickup_and_log_seconds",
+  "pizza_test_2.py::test_can_order_pizzas[Hawaiian-Your order is Hawaiian]",
+  "pizza_test_2.py::test_can_order_pizzas[Margherita-Your order is Margherita]",
+  "pizza_test_2.py::test_can_order_pizzas[Pepperoni-Your order is Pepperoni]",
+  "pizza_test_2.py::test_can_show_menu"
+]
